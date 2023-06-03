@@ -1,1 +1,2 @@
-exec pkexec calamares
+pkexec calamares
+openbox --exit
